@@ -1,0 +1,18 @@
+{
+  "required_api_version": "2",
+  "name": "Define Word",
+  "description": "A simple dictionary plugin to define words using an online API.",
+  "developer_name": "Jeremy Huang",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.5
+  },
+  "preferences": [
+    {
+      "id": "keyword",
+      "type": "keyword",
+      "name": "Define",
+      "default_value": "define"
+    }
+  ]
+}
