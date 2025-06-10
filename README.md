@@ -1,12 +1,12 @@
 # Ulauncher English-Chinese Dictionary Extension
 
-[![License: MIT](... ...)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-blue.svg)](https://ulauncher.io/)
 
 This is a dictionary extension for the [Ulauncher](https://ulauncher.io/) application launcher, designed to bring the convenience of macOS's "Dictionary" feature to Linux. Get instant English definitions and Chinese translations directly within Ulauncher.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeremyhuang18/Ulauncher-define-translation/main/assets/demo.gif" alt="Ulauncher English-Chinese Dictionary Extension Demo" width="600">
+  <img src="https://raw.githubusercontent.com/Jeremyhuang18/Ulauncher-define-translation/main/assets/demo.gif" alt="Ulauncher English-Chinese Dictionary Extension Demo" width="750">
 </p>
 
 ## ✨ Features
@@ -24,9 +24,9 @@ This extension can be installed directly within Ulauncher:
 2.  Navigate to the **"Extensions"** tab.
 3.  Click on **"Add extension"**.
 4.  Paste the following URL into the input field:
-    ````
-    [https://github.com/JeremyHuang18/Ulauncher-define-translation](https://github.com/JeremyHuang18/Ulauncher-define-translation)
-    ````
+    ```
+    https://github.com/JeremyHuang18/Ulauncher-define-translation
+    ```
 5.  Click the **"Add"** button. Ulauncher will download and install the extension automatically.
 6.  Restart Ulauncher for the extension to be fully loaded.
 
